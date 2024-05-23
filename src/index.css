@@ -27,13 +27,12 @@
   justify-content: space-between;
   align-items: flex-start;
   margin-top: 10px;
-  padding: 5px;
+  padding: 10px;
   border-top: 1px solid;
   border-bottom: 1px solid;
 }
 .text-content {
   flex: 1;
-  margin-right: 5px;
 }
 .image-button-container {
   display: flex;
@@ -64,6 +63,8 @@
 .service-header {
   margin-top: 18px;
   padding-left: 1rem;
+  font-size: 20px;
+  font-weight: 600;
 }
 .category {
   display: flex;
